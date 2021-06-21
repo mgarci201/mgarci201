@@ -1,12 +1,12 @@
 ### Hi, I'm Mario 👋
 
-Fullstack JS engineer currently working for a start-up based in Scotland
+Fullstack JS Engineer currently working for a start-up based in Scotland
 
 * Experienced in typescript(MEAN stack) with Angular 2+ & Express(sailsJS)
 * Have worked in Python web development(Django backend-api) & Physical computing (Robotics maneuvering / General Raspi projects)
 * Experienced with creating Docker containers & virtualise servers for test / dev environments
 * Worked with various databases sql & no-sql: setup, configuration & administration
-* Exp in PHP (SuuiteCRM) + Perl scripting
+* Exp in PHP (SuiteCRM) + Perl scripting
 
 * Says he likes Linux (Debian) but secretly working on a MacOS
 
