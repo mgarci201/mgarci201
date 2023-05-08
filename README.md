@@ -1,6 +1,6 @@
 ### Hi, Its Mario 👋
 
-Currently a Fullstack JS Engineer working for a start-up based in Scotland
+Currently a Fullstack JS Engineer working for a start-up
 
 * Experienced in typescript (MEAN stack) with Angular 2+ & Express (SailsJS / NestJS)
 * Has experience with creating Docker containers & virtualise servers for test / dev environments
