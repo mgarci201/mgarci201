@@ -8,7 +8,6 @@ Currently a Fullstack JS Engineer working for a start-up
 * Says he likes Debian/Ubuntu but secretly working on a MacOS
 
 Other things that he does or did:
-* Plays RTS/Jrpg games (AOE2, C&C Generals, Red Alert, FF series, Octopath, Dragon Quest etc)
 * Worked in Python web development (Django rest backend-api) & Physical computing (Robotics maneuvers / General Raspi projects)
 * PHP (suiteCRM) & Perl scripting
 * ASP.NET (mvc) old school - now trying to learn .Net Core
