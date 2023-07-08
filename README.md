@@ -2,16 +2,15 @@
 
 Currently a Fullstack JS Engineer working for a start-up
 
-* Experienced in typescript (MEAN stack) with Angular 2+ & Express (SailsJS / NestJS)
-* Has experience with creating Docker containers & virtualise servers for test / dev environments
-* Worked with various databases sql & no-sql: setup, configuration & administration
-* Says he likes Debian/Ubuntu but secretly working on a MacOS
+* experienced in typescript (MEAN stack) with Angular 2+ & Express (SailsJS / NestJS)
+* experienced with creating Docker containers & virtualise servers for test / dev environments
+* worked with various databases sql & no-sql: setup, configuration & administration
 
-Other things that he does or did:
+Other things that i do or did:
 * Worked in Python web development (Django rest backend-api) & Physical computing (Robotics maneuvers / General Raspi projects)
 * PHP (suiteCRM) & Perl scripting
 * ASP.NET (mvc) old school - now trying to learn .Net Core
-* Playing around w/ AWS features (EC2, S3, Lambda, RDS, Elastic IP) until he gets billed that is...
+* Playing around w/ AWS features (EC2, S3, Lambda, RDS, Elastic IP)
 
 
 <h6>Captcha check: If you're here as a recruiter, pls let me know what you had for breakfast when contacting me.</h6>
