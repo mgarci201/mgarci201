@@ -12,9 +12,6 @@ Other things that i do or did:
 * ASP.NET (mvc) old school - now trying to learn .Net Core
 * Playing around w/ AWS features (EC2, S3, Lambda, RDS, Elastic IP)
 
-
-<h6>Captcha check: If you're here as a recruiter, pls let me know what you had for breakfast when contacting me.</h6>
-
 <h4>M's Github stats:</h4>
 <p>He's trying to reach S Rank to enable his Sharingan</p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mgarci201&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
